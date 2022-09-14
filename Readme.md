@@ -21,7 +21,7 @@ The figures appear in Figure/With_data/ when which_data == 'FP', while they appe
 The results of simulations appear in Result/With_data/ when Test_consistency == 0, while they appear in Result/With_synthetic_data/ when Test_consistency == 1.
 
 
-# version of R
+# Version of R
 R 3.6.0 : https://cran.r-project.org/src/base/R-3/R-3.6.0.tar.gz
 
 
